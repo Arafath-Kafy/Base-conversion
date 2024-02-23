@@ -1,0 +1,57 @@
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+
+Binary == To == Octal: 1010 b = 12 o
+Binary == To == Decimal: 101 b = 5 d
+Decimal == To == Binary: 57 d = 111001 b
+Hexadecimal == To == Binary: 5D h = 01011101 b
+
+
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Decimal == To == Binary: 155 d = 10011011 b
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Decimal == To == Binary: 1365 d = 1511075509 b
+Decimal == To == Binary: 124 d = 1111100 b
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+
+Binary == To == Octal: 10 b = 2 o
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+
+Binary == To == Octal: 12 b = 4 o
+
+Binary == To == Octal: 10 b = 2 o
+
+Binary == To == Octal: 1 b = 1 o
+
+Binary == To == Octal: 12 b = 4 o
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Decimal == To == Binary: 6 d = 110 b
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+Basename1	To	Basename2:	Num1 = Num2
+======================================
+
+Binary == To == Octal: 10 b = 2 o
+Basename1	To	Basename2:	Num1 = Num2
+======================================

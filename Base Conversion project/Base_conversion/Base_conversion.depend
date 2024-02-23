@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1628610875 source:c:\users\arafa\documents\codeblocks\book exercise\base conversion project\base_conversion\main.c
+	<math.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
+1629476570 source:c:\users\arafa\documents\codeblocks\base conversion project\base_conversion\main.c
+	<math.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
